@@ -1,0 +1,13 @@
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\bin\Release\MatemáticaDiscreta.exe.config
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\bin\Release\MatemáticaDiscreta.exe
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\bin\Release\MatemáticaDiscreta.pdb
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\bin\Release\MetroFramework.Design.dll
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\bin\Release\MetroFramework.dll
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.DiscretaM.resources
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.Problemas.resources
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.Properties.Resources.resources
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.csproj.GenerateResource.Cache
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.exe
+C:\Users\Computador\Desktop\MatemáticaDiscreta\MatemáticaDiscreta\obj\Release\MatemáticaDiscreta.pdb
